@@ -12,3 +12,7 @@ def model2():
     
 def model3():
     print("adding code for model3")        
+    
+    
+    
+print("model 2performing well")    
